@@ -1,44 +1,50 @@
-# Hello, I'm Shaul Rosenberg 👋
+<img alt="waving hand" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Shaul</h2>
 
-I'm a Full Stack Web Developer, recently graduated from a rigorous 640-hour Coding Academy Bootcamp. I hold a Bachelor of Science in Software Engineering and am extremely passionate about learning and web development. I have hands-on experience in working with technologies like JavaScript, ES6, Angular, React, Vue, Node.js, Express, MongoDB, and TypeScript.
+<!-- ## 👋 &nbsp;Hey there! I'm Shaul -->
 
-🔭 I’m currently diving deeper into the application of Redux, Vuex, and advanced Node.js.
+![](./assets/header_1.png)
 
-🌱 I’m continually learning to enhance my skills and explore new technologies.
+### 👨🏻‍💻 &nbsp;About Me
 
-📫 How to reach me: shaulr10@gmail.com
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I have a B.Sc. in Computer Science from Shenkar College in Ramat Gan.\
+🌱 &nbsp;I'm always learning and lately, I'm amid a deep dive into web development and especially react.\
+✍️ &nbsp;In my free time, I pursue such topics as neuroscience, math, and linguistics. I especially enjoy and have a big passion for Sci-Fi.\
+✉️ &nbsp;You can reach out to me via email at shaulr10@gmail.com! I'll try to respond as soon as I can.
 
-⚡ Fun fact: Believe it or not, I was not always as awesome as I am today.
+<img alt="Night Coding" src="./assets/coding.gif" width='300' align="right"/>
 
-## 🛠️ My Skills
+### 🛠 &nbsp;Tech Stack
 
-### 👉 Programming languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
-<p align="left"> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/typescript/typescript-ar21.svg" alt="typescript" width="40" height="40"/>
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/shaulrosenberg">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaulrosenberg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaulrosenberg&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-### 👉 Frontend Development
-<p align="left"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="40" height="40"/> 
-</p>
+### 🤝🏻 &nbsp;Connect with Me
 
-### 👉 Backend Development
-<p align="left"> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/>
-</p>
+<p align="center">
 
-### 👉 Databases
-<p align="left"> 
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/> 
-</p>
-
-### 👉 Others
-<p align="left"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="40" height="40"/> 
+<a href="https://www.linkedin.com/in/shaulrosenberg/"><img src="https://img.shields.io/badge/-Shaul%20Rosenberg-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
