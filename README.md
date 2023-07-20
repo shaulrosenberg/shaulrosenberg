@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I have a B.Sc. in Computer Science from Shenkar College in Ramat Gan.\
+🎓 &nbsp;I have a B.Sc. in Software Engineering from Shenkar College in Ramat Gan.\
 🌱 &nbsp;I'm always learning and lately, I'm amid a deep dive into web development and especially react.\
 ✍️ &nbsp;In my free time, I pursue such topics as neuroscience, math, and linguistics. I especially enjoy and have a big passion for Sci-Fi.\
 ✉️ &nbsp;You can reach out to me via email at shaulr10@gmail.com! I'll try to respond as soon as I can.
