@@ -6,10 +6,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I have a B.Sc. in Computer Science from Shenkar College in Ramat Gan.\
-🌱 &nbsp;I'm always learning and lately, I'm amid a deep dive into web development and especially react.\
-✍️ &nbsp;In my free time, I pursue such topics as neuroscience, math, and linguistics. I especially enjoy and have a big passion for Sci-Fi.\
+💡 &nbsp;I have a keen interest in exploring novel technologies and crafting innovative software solutions and efficient shortcuts.\
+🎓 &nbsp;Holding a B.Sc. in Computer Science from Shenkar College in Ramat Gan, I possess a solid educational foundation.\
+🌱 &nbsp;My learning journey is ceaseless, with my current focus deeply immersed in web development, particularly honing my skills in React.\
+✍️ &nbsp;I find solace in the great outdoors, embarking on invigorating hikes that allow me to connect with nature's beauty. On quieter days, I'm engrossed in the world of literature, immersing myself in the pages of captivating books that transport me to different realms.\
 ✉️ &nbsp;You can reach out to me via email at shaulr10@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="./assets/coding.gif" width='300' align="right"/>
